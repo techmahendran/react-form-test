@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "content": "Task 1",
+      "role": "JavaScript Dev",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "content": "Task 2",
+      "role": "React JS Dev",
+      "reminder": true,
+      "id": 2
+    },
+
+    {
+      "content": "Task 3",
+      "role": "Next JS Dev",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
